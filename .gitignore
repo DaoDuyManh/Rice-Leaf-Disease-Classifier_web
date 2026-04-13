@@ -1,0 +1,33 @@
+# Streamlit
+.streamlit/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+venv/
+env/
+.venv
+.env
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Cache
+.cache/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.h5
+*.keras
+*.tflite
+
+# Logs
+*.log
