@@ -24,10 +24,10 @@ env/
 .DS_Store
 Thumbs.db
 
-# Large files
-*.h5
-*.keras
-*.tflite
+# Local files/data (but save saved_models)
+local_data/
+firebase-service-account-key.json
+rice-leaf-disease-classifier-firebase-adminsdk-fbsvc-15b0ed0c79.json
 
 # Logs
 *.log
